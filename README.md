@@ -1,5 +1,9 @@
 📊 Retail Sales Analysis - SQL Project
 
+**
+  Lorens Mishra
+**
+
 📋 Project Overview
 
 This project analyzes retail sales data using SQL queries to gain insights into customer behavior, sales patterns, and product performance.
